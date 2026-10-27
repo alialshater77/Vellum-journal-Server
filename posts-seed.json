@@ -1,0 +1,102 @@
+[
+  {
+    "_id": { "$oid": "6ae0b0c7c90304343128d3c4" },
+    "title": "Saturday coffee before the city wakes up",
+    "imageUrl": "images/morning-coffee.jpg",
+    "content": "I got to the corner cafe just after it opened and took the window seat. The espresso was short and hot, and the street outside was still quiet except for the bakery truck. I stayed for a second cup and finished the chapter I have been carrying around all week. This is the part of the weekend I actually look forward to.",
+    "creator": { "$oid": "6adfa69056b2c8543573fd94" },
+    "createdAt": { "$date": "2026-10-27T07:40:00.000Z" },
+    "updatedAt": { "$date": "2026-10-27T07:40:00.000Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6ae0b0c7c90304343128d3c5" },
+    "title": "Above the tree line on the ridge trail",
+    "imageUrl": "images/mountain-trail.jpg",
+    "content": "We started in the dark and reached the ridge just as the sun hit the peaks. The last switchback was steep, but the wind up there was cold and clean, and the valley below was still in shadow. We ate sandwiches on a flat rock and watched a pair of ravens circle the cliff. My legs are tired and I would do the same hike again tomorrow.",
+    "creator": { "$oid": "6adfa69056b2c8543573fd94" },
+    "createdAt": { "$date": "2026-10-26T16:15:00.000Z" },
+    "updatedAt": { "$date": "2026-10-26T16:15:00.000Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6ae0b0c7c90304343128d3c6" },
+    "title": "The avenue after the offices empty out",
+    "imageUrl": "images/city-evening.jpg",
+    "content": "I walked home the long way tonight, down the avenue once the offices had emptied. The towers were already lit, traffic had thinned, and the sidewalk cafes were just putting out their evening tables. I stopped on the bridge for a minute and watched the lights come on in the river. The city feels kinder at this hour.",
+    "creator": { "$oid": "6adfa69056b2c8543573fd94" },
+    "createdAt": { "$date": "2026-10-25T19:05:00.000Z" },
+    "updatedAt": { "$date": "2026-10-25T19:05:00.000Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6ae0b0c7c90304343128d3c7" },
+    "title": "Sunday pasta with whatever was in the fridge",
+    "imageUrl": "images/homemade-pasta.jpg",
+    "content": "No plan tonight, just garlic, chili, a squeeze of lemon, and the parsley that was about to go soft. The pasta water went in at the end so the sauce actually clung to the noodles. I ate it straight from the pan with a piece of bread and a glass of the white wine left from Friday. Simple dinners are still the ones I remember.",
+    "creator": { "$oid": "6adfa69056b2c8543573fd94" },
+    "createdAt": { "$date": "2026-10-24T18:30:00.000Z" },
+    "updatedAt": { "$date": "2026-10-24T18:30:00.000Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6ae0b0c7c90304343128d3c8" },
+    "title": "An hour lost in the secondhand bookshop",
+    "imageUrl": "images/bookstore-afternoon.jpg",
+    "content": "I went in for one novel and came out with three. The shop smells like old paper and dust, and the owner lets you sit on the floor between the stacks. I found a travel diary from the 1970s with train tickets still tucked in the back. I am starting that one tonight and saving the others for the train next week.",
+    "creator": { "$oid": "6adfa69056b2c8543573fd94" },
+    "createdAt": { "$date": "2026-10-23T14:20:00.000Z" },
+    "updatedAt": { "$date": "2026-10-23T14:20:00.000Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6ae0b0c7c90304343128d3c9" },
+    "title": "Low tide and a long walk on the sand",
+    "imageUrl": "images/coastal-walk.jpg",
+    "content": "The beach was almost empty when I got there. Low tide had pulled the water far out, so I walked along the wet sand where the footprints disappear behind you. The water was too cold to swim, but I stood in it anyway until my feet went numb. I left before the crowds and still have sand in my shoes.",
+    "creator": { "$oid": "6adfd55dd3196647a8f81260" },
+    "createdAt": { "$date": "2026-10-22T11:45:00.000Z" },
+    "updatedAt": { "$date": "2026-10-22T11:45:00.000Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6ae0b0c7c90304343128d3ca" },
+    "title": "Saturday market before the good peaches go",
+    "imageUrl": "images/weekend-market.jpg",
+    "content": "I got to the market early enough to talk to the growers instead of just the crowd. Peaches were at their last good week, tomatoes still smelled like the vine, and I bought more herbs than I can use. The rest of the morning was coffee on the curb and a paper bag of fruit on the walk home. This is my favorite errand of the week.",
+    "creator": { "$oid": "6adfd55dd3196647a8f81260" },
+    "createdAt": { "$date": "2026-10-21T09:10:00.000Z" },
+    "updatedAt": { "$date": "2026-10-21T09:10:00.000Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6ae0b0c7c90304343128d3cb" },
+    "title": "Cleared the desk and finally started the draft",
+    "imageUrl": "images/desk-setup.jpg",
+    "content": "I spent the morning moving notebooks, closing extra tabs, and putting the laptop back in the one spot where I actually work. Then I wrote for two hours without checking messages. The draft is rough, but it exists, which is more than I had yesterday. Tomorrow I edit. Tonight I leave the desk the way it is.",
+    "creator": { "$oid": "6adfd55dd3196647a8f81260" },
+    "createdAt": { "$date": "2026-10-20T15:00:00.000Z" },
+    "updatedAt": { "$date": "2026-10-20T15:00:00.000Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6ae0b0c7c90304343128d3cc" },
+    "title": "The tulips opened while I was away",
+    "imageUrl": "images/spring-garden.jpg",
+    "content": "I planted these bulbs in November and forgot about them until this week. They opened all at once, red and yellow, along the path by the fence. I cut a small bunch for the kitchen table and left the rest for the bees. The garden is doing its job even when I am not paying attention.",
+    "creator": { "$oid": "6adfd55dd3196647a8f81260" },
+    "createdAt": { "$date": "2026-10-19T10:25:00.000Z" },
+    "updatedAt": { "$date": "2026-10-19T10:25:00.000Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6ae0b0c7c90304343128d3cd" },
+    "title": "Night train and a window full of stations",
+    "imageUrl": "images/night-train.jpg",
+    "content": "I took the late train instead of flying. The carriage was half empty, the lights were low, and every station slid past the window like a short film. I read until my eyes gave up, then just watched the dark countryside and the occasional platform. I arrived tired in the best way, with the whole trip still in my head.",
+    "creator": { "$oid": "6adfd55dd3196647a8f81260" },
+    "createdAt": { "$date": "2026-10-18T21:50:00.000Z" },
+    "updatedAt": { "$date": "2026-10-18T21:50:00.000Z" },
+    "__v": 0
+  }
+]
