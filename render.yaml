@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: vellum-press
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: JWT_SECRET
+        generateValue: true
+      - key: MONGO_USER
+        sync: false
+      - key: MONGO_PASSWORD
+        sync: false
+      - key: MONGO_DEFAULT_DATABASE
+        value: feed
+      - key: MONGO_HOST
+        value: e-commerce.gyjkjqy.mongodb.net
+      - key: FRONT_ORIGIN
+        sync: false
